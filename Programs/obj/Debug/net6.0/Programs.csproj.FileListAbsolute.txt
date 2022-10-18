@@ -1,0 +1,15 @@
+D:\Practise\OPCode\Programs\bin\Debug\net6.0\Programs.exe
+D:\Practise\OPCode\Programs\bin\Debug\net6.0\Programs.deps.json
+D:\Practise\OPCode\Programs\bin\Debug\net6.0\Programs.runtimeconfig.json
+D:\Practise\OPCode\Programs\bin\Debug\net6.0\Programs.dll
+D:\Practise\OPCode\Programs\bin\Debug\net6.0\Programs.pdb
+D:\Practise\OPCode\Programs\obj\Debug\net6.0\Programs.csproj.AssemblyReference.cache
+D:\Practise\OPCode\Programs\obj\Debug\net6.0\Programs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise\OPCode\Programs\obj\Debug\net6.0\Programs.AssemblyInfoInputs.cache
+D:\Practise\OPCode\Programs\obj\Debug\net6.0\Programs.AssemblyInfo.cs
+D:\Practise\OPCode\Programs\obj\Debug\net6.0\Programs.csproj.CoreCompileInputs.cache
+D:\Practise\OPCode\Programs\obj\Debug\net6.0\Programs.dll
+D:\Practise\OPCode\Programs\obj\Debug\net6.0\refint\Programs.dll
+D:\Practise\OPCode\Programs\obj\Debug\net6.0\Programs.pdb
+D:\Practise\OPCode\Programs\obj\Debug\net6.0\Programs.genruntimeconfig.cache
+D:\Practise\OPCode\Programs\obj\Debug\net6.0\ref\Programs.dll
