@@ -14,8 +14,10 @@
             // ReverseDoubleLinkedList.Solution();
             // MergeMultiLevelDoublyLinkedList.Solution();
             // CyclicDectionLinkedList.Solution();
+            // Paranthasis.Solution();
 
-            Paranthasis.Solution();
+            makeValidParanthesis.Solution();
+
         }
     }
 }
