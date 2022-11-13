@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9SJywe3/OMOigd0GJa9e9pa7djYBjEQaui4ASTbJgu2maKROCZ7f2LSNrK0hFY+yd8ryIdGU+mre1UHeQQToYA==",
+  "dgSpecHash": "HBp12AN9v6gQbY99QyCaE4LC9mYJug8a6YQa9r3aMdIaeVwIFPORoc0O1OeCnqz0Gr73Txph3t/+R9PyxNcSgQ==",
   "success": true,
-  "projectFilePath": "D:\\Practise\\OPCode\\Programs\\Programs.csproj",
+  "projectFilePath": "D:\\OPCode\\Programs\\Programs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
